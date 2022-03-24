@@ -1,0 +1,23 @@
+   {
+    "name": "The SR Zone",
+    "short_name": "The SR Zone",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhXqIOH1Po_RXyUIPsg7F1kg5YI1GFSX8qX1dvoOO6PxilW4LjjZ20w7bFdpXFRJlZNfPXAKNkUSc4L6H0gtq3cJIPPJnxg9leMI_taU5G3UO8gkGJXq6Fwb6RphcFtlxc5QDICOih_5tlhVH_LfiQVDLPmUn2bACSl-E1pAfPeipPQN6FMwXxjsarz=s16000",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjBHj9_dpL5KIjURxuQL9mKYxAX2zTdJhXJDcvT9tXSN_wuS5Vn6PR_lNBV6d0CUkhVZ8wxajE-yrCY5qa8rwXRV3iPfgJTOhGLOZwtzQ2R-yZMAfrR4ubna2bvOyWklIPPmCzKF8NcgH_UTk1yB1YgXoUx230qfsD9mQlDofrMdTgLHhlpsQqq978r=s16000",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.tsz.com.np"
+}
